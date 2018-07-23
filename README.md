@@ -6,3 +6,4 @@ The primitive directory has chatbox made from a dataset made by me and it is mad
      Command : *pip install chatterbot*
 
      Dataset: 'chat.txt' is a file made from the conversation of a person taking a course of machine learning from some website
+I included a new dataset (the infamous cornell movie dialog corpus).
